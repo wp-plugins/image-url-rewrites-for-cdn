@@ -27,7 +27,7 @@ Many websites use a CDN (Content Delivery Network) service for their library dat
 When you start using a CDN service, you have to update URLs of all your images, for example if the previous URL was http://www.your-site.com/ it should now be converted to http://cdn.your-site.com/image.jpg.... jeez, changing URLs of all your images sounds like a hectic task, doesn't it? Thanks to the latest plugin we have made for you, it is not a major task at all.
 on disabling the plugin your image urls will be reverted back to your default site links.
 Note: The image URL rewrites works only inside the post content and can be undone anytime by disabling the plugin.
-This plugin is powered by [Designzzz](http://wordpress.designzzz.com/ "Wordpress Tutorials and Resources")
+This plugin is powered by [Designzzz](http://www.designzzz.com/ "Wordpress Tutorials and Resources")
 
 
 == Installation ==
